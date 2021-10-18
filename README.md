@@ -1,13 +1,17 @@
-# Pirate Themed Android Game
+# The Lone Marauder
 
-Name to be determined 😁
+The Lone Marauder is a 3d side scrolling game. A young pirate has been washed up from the sea after being abandoned by his crew. He finds himself on an unknown island occupied by villagers and monsters.
+His goal is to avenge himself, by raiding islands, gathering loot and recruiting his own crew to help fight along side him.
 
-This game is being developed as part of my third year Capstone Project. It will be released on the Google Play Store in Q3 2022.
+It will be released on the Google Play Store in Q3 2022.
 
-This readme will be updated as the game development progresses
 
-Day 1 Screenshots :
 
-![Level Made](https://user-images.githubusercontent.com/56220027/136831449-e4aa7b16-cf68-4427-b5d4-9e183f399b40.jpg)
+Development
+-
+This repo will be a dev log for the development progress of the game
+During the 1st week of year 3, we had to spend 5 days developing basic features for our project. Below is a short video demonstrating the small features I was able to develop in this time
 
-Day 2:
+
+https://user-images.githubusercontent.com/56220027/137645848-43fddb4e-33bd-4f2e-a2cf-1f10be5945f4.mp4
+
