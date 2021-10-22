@@ -78,3 +78,5 @@ Content/APK/Android_Multi/Install_AndroidCapstone-armv7.bat
 Content/New folder/Android_Multi/AndroidCapstone-armv7.apk
 Content/New folder/Android_Multi/Uninstall_AndroidCapstone-armv7.bat
 Content/New folder/Android_Multi/Install_AndroidCapstone-armv7.bat
+*.obb
+*.obb
