@@ -1,0 +1,2 @@
+Different type of weapons damage enemies differently eg bliunt weapon hits skeleton more than pointy
+Different type of armor reduce damage based differently on armor taken
